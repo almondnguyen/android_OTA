@@ -8,6 +8,15 @@
       "size": "422190982",
       "url": "https://github.com/almondnguyen/android_OTA/releases/download/14.1-20220202/lineage-14.1-20220202-UNOFFICIAL-grandppltedx.zip",
       "version": "14.1"
+    },
+    {
+      "datetime": "1643763600",
+      "filename": "lineage-14.1-20220203-UNOFFICIAL-grandppltedx.zip",
+      "id": "d921accbe83c725ea27efca1eebd189d",
+      "romtype": "UNOFFICIAL",
+      "size": "422183247",
+      "url": "https://github.com/almondnguyen/android_OTA/releases/download/14.1-20220203/lineage-14.1-20220203-UNOFFICIAL-grandppltedx.zip",
+      "version": "14.1"
     }
   ]
 }
