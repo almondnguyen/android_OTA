@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": "1687172070",
+      "filename": "lineage-15.1-20230619-UNOFFICIAL-grandppltedx.zip",
+      "id": "61cb4c168df20f71d0a7c2b2ba355fff",
+      "romtype": "UNOFFICIAL",
+      "size": "383732911",
+      "url": "https://github.com/almondnguyen/android_OTA/releases/download/15.1-20230619/lineage-15.1-20230619-UNOFFICIAL-grandppltedx.zip",
+      "version": "15.1"
+    }
+}
