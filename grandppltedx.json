@@ -1,16 +1,7 @@
 {
   "response": [
     {
-      "datetime": "1688688000",
-      "filename": "lineage-14.1-20230707-UNOFFICIAL-grandppltedx.zip",
-      "id": "384290c26505f7103a30d60a250ab710",
-      "romtype": "UNOFFICIAL",
-      "size": "369016771",
-      "url": "https://github.com/almondnguyen/android_OTA/releases/download/14.1-20230708/lineage-14.1-20230707-UNOFFICIAL-grandppltedx.zip",
-      "version": "14.1"
-    },
-    {
-      "datetime": "1687392000",
+   "datetime": "1687392000",
       "filename": "lineage-14.1-20230623-UNOFFICIAL-grandppltedx.zip",
       "id": "3a720452f8542ff9d96be98020e89545",
       "romtype": "UNOFFICIAL",
